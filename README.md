@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bdoubleu87
 - 👀 I’m interested in learing how to code!
-- 🌱 I’m currently learning PERL/JavaScript/Python
+- 🌱 Past learning: PERL|JavaScript|Python|Bash|awk
+- 👾 Currently learning Kubernetes with Rancher desktop
 - 📫 How to reach me: email -> bm.will87@gmail.com
 
 <!---
